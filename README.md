@@ -15,7 +15,7 @@ Amo oque faço, Tenho bom conhecimento na área de infra, porém tenho um conhec
 
 
 ### 🛠️ Ferramentas Utilizadas.
-<a href=""><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-ar21.svg"><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-ar21.svg"><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a>
 
 <!-- Contatos de Rede Sociais -->
 ### 🔍 Aonde me encontrar ?
