@@ -7,7 +7,7 @@
  ![JAVA](https://img.shields.io/badge/JAVA-Junior-red)  ![PYTHON](https://img.shields.io/badge/PYTHON-Junior-blue) 
 
 <!-- Descrição -->
-Meu nome é Caio Cezar de Olivera, Casado, pai de duas lindas filhas, me especializando principalmete em Java, estou estudando em paralelo Python e SQL pela Udemy, estou a procura da minha primeira vaga na área da programação em Back end, pois já sou da área de TI, estou em faze de transição de área.
+Meu nome é Caio Cezar de Olivera, Casado, pai de duas lindas filhas, me especializando principalmete em Java, estou estudando em paralelo Python e SQL pela Udemy, estou a procura da minha primeira vaga na área da programação em Back end,tenho alguns projetos em que fiz estudando, ja tenho minha experiência na area de Ti, porém em outro segmento.
 
 Amo oque faço, Tenho bom conhecimento na área de infra, porém tenho um conhecimento intermediário em Java, basico em Python e PHP.
 
